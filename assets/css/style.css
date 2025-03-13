@@ -120,8 +120,6 @@
   .banner h2 {
     text-transform: uppercase;
     margin-top: 10px;
-      text-decoration:none;
-      color: #FFF;
   }
   
   .banner .sliders-pointers {
@@ -145,6 +143,10 @@
   .banner .pointer.active {
     background-color: #b28756;
   }
+.slide.area h2 {
+    text-decoration: none;
+    color: #FFF;
+}
   
   /*Website framework*/
   .default {
