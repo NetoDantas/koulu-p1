@@ -120,6 +120,8 @@
   .banner h2 {
     text-transform: uppercase;
     margin-top: 10px;
+      text-decoration:none;
+      color: #FFF;
   }
   
   .banner .sliders-pointers {
@@ -1285,6 +1287,3 @@
     .section-brands img {
         padding-bottom: 10vw;
     }
-      .slide-area h2 {
-          text-decoration: none;
-  }
